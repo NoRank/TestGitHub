@@ -1,0 +1,14 @@
+https://www.youtube.com/watch?v=YHiG2BBvgWc
+
+https://git-lfs.github.com/
+
+https://www.gitignore.io <<< gerar o .gitignore pro unreal
+
+https://www.atlassian.com/git/tutorials/comparing-workflows#!workflow-feature-branch
+
+https://wiki.unrealengine.com/Git_source_control_(Tutorial)
+
+https://services.github.com/on-demand/downloads/pt_BR/github-git-cheat-sheet.pdf
+
+https://gist.github.com/JamesMugford/edb71b221d7ec98821cfeef5c18d6040
+
